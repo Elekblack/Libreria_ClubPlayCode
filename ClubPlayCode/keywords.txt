@@ -1,0 +1,3 @@
+ClubPlayCode    KEYWORD1
+iniciar         KEYWORD2
+avanzar         KEYWORD2
